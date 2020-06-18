@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap);:root{--mainBlack:#222}body{background:linear-gradient(rgba(255,0,0,.52),rgba(0,195,255,.73));font-family:"Roboto",sans-serif!important;color:#222;color:var(--mainBlack)}.App{margin-top:2rem;min-height:100vh;display:flex;flex-direction:column;align-items:center}.spinner{margin-top:21rem!important}
+/*# sourceMappingURL=main.813d561c.chunk.css.map */
