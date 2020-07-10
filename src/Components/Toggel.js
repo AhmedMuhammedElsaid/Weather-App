@@ -13,7 +13,7 @@ export default function Toggel() {
       <div id="inline-radio">
         <Form.Check
           inline
-          label="Celcius"
+          label="Celsius"
           type="radio"
           id="1"
           name="temp"
